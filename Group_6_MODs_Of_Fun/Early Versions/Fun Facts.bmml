@@ -1,0 +1,44 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="540" measuredH="463" mockupW="450" mockupH="463">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="90" y="0" w="173" h="463" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="108" y="118" w="136" h="244" measuredW="640" measuredH="426" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/trees-everglades-abpan.com_.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="108" y="151" w="123" h="-1" measuredW="101" measuredH="21" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20%20%20%20%20%20%20%20%20%20Fun%20Facts%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="135" y="204" w="-1" h="-1" measuredW="58" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Fun%20fact%201</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="129" y="240" w="-1" h="-1" measuredW="64" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Fun%20Fact%202</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::TextArea" x="340" y="75" w="200" h="172" measuredW="200" measuredH="140" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>15110456</color>
+        <text>This%20is%20the%20Fun%20Facts%20Page.%20The%20user%20will%20be%20able%20to%20see%20bulleted%20fun%20facts%20about%20the%20Everglades%20that%20they%20never%20knew%20before%21%20%0AThe%20background%20will%20change%20as%20the%20user%20swipes%20the%20screen%20from%20right%20to%20left%20to%20learn%20more%20about%20the%20Everglades.%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Button" x="122" y="317" w="-1" h="-1" measuredW="108" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <href>Home%26bm%3BHome.bmml%26bm%3BHome.bmml%26bm%3BHome.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2232%2C317%2C140%2C344%22%20href%3D%22Home.bmml%22%20alt%3D%22Home%22%20id%3D%227%22/%3E</map>
+        <text>Back%20to%20Home%20</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

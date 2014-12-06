@@ -1,0 +1,88 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin" >
+
+    <ImageButton
+        android:id="@+id/floor1_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="80dp"
+        android:contentDescription="@string/floor1"
+        android:onClick="launchFirstFloor"
+        android:src="@drawable/ic_launcher" />
+
+    <ImageButton
+        android:id="@+id/floor2_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/floor1_btn"
+        android:layout_marginLeft="50dp"
+        android:layout_toRightOf="@+id/floor1_btn"
+        android:contentDescription="@string/floor2"
+        android:onClick="launchSecondFloor"
+        android:src="@drawable/ic_launcher" />
+
+    <ImageButton
+        android:id="@+id/ecoscape_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/floor1_btn"
+        android:layout_below="@+id/floor1_btn"
+        android:layout_marginTop="70dp"
+        android:contentDescription="@string/ecomap"
+        android:onClick="launchEcoscapeLayout"
+        android:src="@drawable/ic_launcher" />
+
+    <ImageButton
+        android:id="@+id/stormctr_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/floor2_btn"
+        android:layout_alignTop="@+id/ecoscape_btn"
+        android:contentDescription="@string/stormmap"
+        android:onClick="launchStormLayout"
+        android:src="@drawable/ic_launcher" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/floor1_btn"
+        android:layout_below="@+id/floor1_btn"
+        android:text="@string/floor1" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/textView1"
+        android:layout_alignBottom="@+id/textView1"
+        android:layout_alignLeft="@+id/floor2_btn"
+        android:text="@string/floor2" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/ecoscape_btn"
+        android:layout_below="@+id/ecoscape_btn"
+        android:text="@string/ecomap" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/textView3"
+        android:layout_alignBottom="@+id/textView3"
+        android:layout_alignLeft="@+id/stormctr_btn"
+        android:text="@string/stormmap" />
+
+</RelativeLayout>

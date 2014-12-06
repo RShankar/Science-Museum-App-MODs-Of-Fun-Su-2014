@@ -1,0 +1,37 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="604" measuredH="415" mockupW="166" mockupH="415">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="438" y="0" w="166" h="415" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="456" y="98" w="131" h="227" measuredW="250" measuredH="188" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/everglades_image_2012_winner_1_category.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Button" x="498" y="207" w="-1" h="-1" measuredW="47" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16776960</color>
+        <href>The%20Game%20in%20Play%20and%20Tutorial%26bm%3BThe%20Game%20in%20Play%20and%20Tutorial.bmml%26bm%3BThe%20Game%20in%20Play%20and%20Tutorial.bmml%26bm%3BThe%20Game%20in%20Play%20and%20Tutorial.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2260%2C207%2C107%2C234%22%20href%3D%22The%2520Game%2520in%2520Play%2520and%2520Tutorial.bmml%22%20alt%3D%22The%20Game%20in%20Play%20and%20Tutorial%22%20id%3D%222%22/%3E</map>
+        <text>Play</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="488" y="249" w="-1" h="-1" measuredW="66" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16776960</color>
+        <href>Tutorial%26bm%3BTutorial.bmml%26bm%3BTutorial.bmml%26bm%3BTutorial.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2250%2C249%2C116%2C276%22%20href%3D%22Tutorial.bmml%22%20alt%3D%22Tutorial%22%20id%3D%223%22/%3E</map>
+        <text>Tutorial</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="456" y="122" w="-1" h="-1" measuredW="130" measuredH="20" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>12</size>
+        <text>Swimmy%20Turtle%20Options%20</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

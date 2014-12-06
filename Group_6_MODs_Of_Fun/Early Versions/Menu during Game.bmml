@@ -1,0 +1,61 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="837" measuredH="547" mockupW="674" mockupH="547">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="296" y="0" w="194" h="547" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="316" y="145" w="154" h="268" measuredW="250" measuredH="444" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Flappy_Bird_gameplay.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::TextArea" x="312" y="273" w="162" h="140" measuredW="200" measuredH="140" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6989903</color>
+        <text>%20MENU%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="357" y="305" w="-1" h="-1" measuredW="60" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <href>Home%26bm%3BHome.bmml%26bm%3BHome.bmml%26bm%3BHome.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22194%2C305%2C254%2C332%22%20href%3D%22Home.bmml%22%20alt%3D%22Home%22%20id%3D%223%22/%3E</map>
+        <text>Home%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Button" x="357" y="358" w="-1" h="-1" measuredW="59" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16776960</color>
+        <href>Fun%20Facts%26bm%3BFun%20Facts.bmml%26bm%3BFun%20Facts.bmml%26bm%3BFun%20Facts.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22194%2C358%2C253%2C385%22%20href%3D%22Fun%2520Facts.bmml%22%20alt%3D%22Fun%20Facts%22%20id%3D%224%22/%3E</map>
+        <text>Facts%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::TextArea" x="637" y="72" w="-1" h="-1" measuredW="200" measuredH="140" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>16167531</borderColor>
+        <color>40463</color>
+        <text>The%20menu%20button%20will%20lead%20to%20this%20screen%20which%20will%20allow%20the%20player%20to%20pause%3B%20it%20gives%20the%20player%20two%20options%2C%20to%20either%20go%20to%20the%20home%20screen%20and%20exit%20the%20app%20or%20to%20see%20fun%20facts%20while%20they%20are%20waiting%20in%20line.%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Tooltip" x="432" y="318" w="-1" h="-1" measuredW="300" measuredH="33" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Home%20button%20leads%20back%20to%20the%20main%20page%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Tooltip" x="194" y="290" w="-1" h="-1" measuredW="317" measuredH="33" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>The%20facts%20button%20leads%20to%20the%20fun%20facts%20page.%20</text>
+        <tooltipDirection>SE</tooltipDirection>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::TextArea" x="163" y="130" w="118" h="118" measuredW="200" measuredH="140" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10027263</color>
+        <text>A%20player%20can%20tap%20the%20screen%20to%20resume%20playing%20the%20game.%20</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
